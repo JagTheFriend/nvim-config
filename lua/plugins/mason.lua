@@ -21,7 +21,10 @@ return {
         "yaml-language-server",
 
         -- linters / formatters / tools
-        "biome",
+        -- "biome",
+        "oxfmt",
+        "oxlint",
+        "json-lsp",
         "bqls",
         "selene",
         "stylua",
