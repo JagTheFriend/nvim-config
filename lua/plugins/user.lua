@@ -1,34 +1,5 @@
 return {
   {
-    "github/copilot.vim",
-    event = "InsertEnter",
-    autoStart = true,
-  },
-
-  {
-    "supermaven-inc/supermaven-nvim",
-    config = function() require("supermaven-nvim").setup {} end,
-    event = "InsertEnter",
-    autoStart = true,
-  },
-
-  {
-    "Exafunction/windsurf.nvim",
-    dependencies = {
-      "nvim-lua/plenary.nvim",
-      "hrsh7th/nvim-cmp",
-    },
-    config = function() require("codeium").setup {} end,
-    event = "InsertEnter",
-    autoStart = true,
-  },
-
-  {
-    "braxtons12/blame_line.nvim",
-    config = function() require("blame_line").setup {} end,
-  },
-
-  {
     "folke/snacks.nvim",
     opts = {
       dashboard = {
@@ -44,10 +15,6 @@ return {
         },
       },
     },
-  },
-  {
-    "AckslD/muren.nvim",
-    config = true,
   },
 }
 
