@@ -11,6 +11,7 @@ return {
   { import = "astrocommunity.motion.mini-surround" },
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
   { import = "astrocommunity.recipes.heirline-vscode-winbar" },
+  { import = "astrocommunity.pack.go" },
   -- { import = "astrocommunity.scrolling.mini-animate" },
   -- import/override with your plugins folder
 }
