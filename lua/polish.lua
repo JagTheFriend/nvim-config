@@ -22,3 +22,12 @@ vim.opt.listchars = {
 --   trail = "~",
 --   space = "·",
 -- }
+
+-- Enable spell
+vim.opt.spell = true
+vim.opt.spelllang = { "en_us" }
+
+vim.api.nvim_set_hl(0, "SpellBad", {
+  fg = "skyblue",
+  underdashed = true,
+})
