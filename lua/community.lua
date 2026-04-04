@@ -13,6 +13,7 @@ return {
   { import = "astrocommunity.recipes.heirline-vscode-winbar" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.golangci-lint" },
+  -- { import = "astrocommunity.recipes.astrolsp-no-insert-inlay-hints" },
   -- { import = "astrocommunity.scrolling.mini-animate" },
   -- import/override with your plugins folder
 }
