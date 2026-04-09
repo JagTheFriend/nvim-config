@@ -11,7 +11,7 @@ return {
     diagnostics = {
       virtual_text = false,
       virtual_lines = true, -- Neovim v0.11+ only
-      update_in_insert = true,
+      update_in_insert = false,
       underline = true,
       severity_sort = true,
     },
