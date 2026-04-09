@@ -24,13 +24,13 @@ return {
   { import = "astrocommunity.pack.yaml" },
 
   -- Web / Frontend
-  { import = "astrocommunity.pack.typescript-all-in-one" },
+  { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.html-css" },
 
   -- DevOps / Infra
   { import = "astrocommunity.pack.docker" },
-  { import = "astrocommunity.pack.nginx" },
+  -- { import = "astrocommunity.pack.nginx" },
   { import = "astrocommunity.pack.terraform" },
 
   -- Linting / Formatting

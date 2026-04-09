@@ -13,7 +13,6 @@
   "blink.compat": { "branch": "main", "commit": "2ed6d9a28b07fa6f3bface818470605f8896408c" },
   "cmp-dap": { "branch": "master", "commit": "ea92773e84c0ad3288c3bc5e452ac91559669087" },
   "copilot.vim": { "branch": "release", "commit": "a12fd5672110c8aa7e3c8419e28c96943ca179be" },
-  "deno-nvim": { "branch": "master", "commit": "5c1ef9762f916033bd3b9b37878384cae24ddb4e" },
   "friendly-snippets": { "branch": "main", "commit": "6cd7280adead7f586db6fccbd15d2cac7e2188b9" },
   "gitsigns.nvim": { "branch": "main", "commit": "7010000889bfb6c26065e0b0f7f1e6aa9163edd9" },
   "gopher.nvim": { "branch": "main", "commit": "27ba078f14dd39fcd5e8a57d7009cdd77450ebbb" },
