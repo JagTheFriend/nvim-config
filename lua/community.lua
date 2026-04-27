@@ -4,6 +4,7 @@
 return {
   -- Core AstroCommunity
   "AstroNvim/astrocommunity",
+  -- { import = "astrocommunity.pack.lua" },
 
   -- UI / Appearance
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
@@ -36,7 +37,7 @@ return {
 
   -- Linting / Formatting
   { import = "astrocommunity.pack.golangci-lint" },
-  { import = "astrocommunity.pack.biome" },
+  -- { import = "astrocommunity.pack.biome" },
   { import = "astrocommunity.pack.oxlint" },
 
   -- Optional (commented)
