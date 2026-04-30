@@ -16,6 +16,10 @@ return {
       },
     },
   },
+  {
+    "zeioth/garbage-day.nvim",
+    event = "VeryLazy",
+  },
 }
 
 -- if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
