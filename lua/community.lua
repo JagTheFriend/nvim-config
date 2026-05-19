@@ -24,6 +24,7 @@ return {
   { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.bash" },
+  { import = "astrocommunity.pack.sql" },
 
   -- Web / Frontend
   { import = "astrocommunity.pack.typescript" },
