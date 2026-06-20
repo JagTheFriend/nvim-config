@@ -7,7 +7,7 @@ return {
   -- { import = "astrocommunity.pack.lua" },
 
   -- UI / Appearance
-  { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
+  -- { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
   { import = "astrocommunity.recipes.heirline-vscode-winbar" },
 
   -- Motion / Editing
