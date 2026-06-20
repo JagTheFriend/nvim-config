@@ -14,14 +14,6 @@ return {
     config = function() require("lsp_signature").setup() end,
   },
 
-  {
-    "zeioth/garbage-day.nvim",
-    event = "VeryLazy",
-    opts = {
-      aggressive_mode = true
-    }
-  },
-
   -- == Examples of Overriding Plugins ==
 
   -- customize dashboard options
