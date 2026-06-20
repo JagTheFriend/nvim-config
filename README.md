@@ -24,7 +24,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/JagTheFriend/nvim-config.git ~/.config/nvim
+git clone https://github.com/<user-name>/nvim-config.git ~/.config/nvim
 ```
 
 #### Start Neovim
